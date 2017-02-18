@@ -20,13 +20,7 @@
                     <dependencyDetailsEnabled>false</dependencyDetailsEnabled>
                     <dependencyLocationsEnabled>false</dependencyLocationsEnabled>
                 </configuration>
-                            <executions>
-                <execution>
-                    <goals>
-                        <goal>endpoints_get_discovery_doc</goal>
-                    </goals>
-                </execution>
-            </executions>
+
             </plugin>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
